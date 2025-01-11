@@ -1,0 +1,6 @@
+Material ID,Material Name,Supplier ID,Quantity in Stock,Unit,Cost per Unit,Reorder Point,Last Order Date,Total Value,Reorder Alert
+RW001,Soy Wax,S001,150,lbs,2.5,50,2023-10-15,375,OK
+RW002,Fragrance Oil - Lavender,S002,25,oz,5,10,2023-10-20,125,OK
+RW003,Cotton Wick - Large,S001,500,pcs,0.1,100,2023-10-10,50,OK
+RW004,Beeswax,S003,30,lbs,4,15,2023-09-28,120,OK
+RW005,Fragrance Oil - Vanilla,S002,8,oz,5,10,2023-09-15,40,Reorder
